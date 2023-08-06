@@ -22,5 +22,5 @@ Committing a project to a GitHub repository involves a series of steps that star
 7. Run git add . to add
 8. run git commit -m "first commit" to commit
 9. run git branch -M main to create branch main
-10. run git remote add origin git@github.com:TPADEJUWON/td-intro-github-basics.git to create your local repo.
+10. run git remote add origin git@github.com:yourusername/reponame.git to create your local repo. This will prompt you for verification. Verify and goto the next step.
 11. then finally run git push -u origin main. to push the local repo to your remote repo.
